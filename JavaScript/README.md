@@ -1,0 +1,1 @@
+This is a summary for an introduction to javascript from ["Learn JavaScript in Arabic 2021" by Elzero Web School YouTube channel](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv).
